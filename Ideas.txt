@@ -1,0 +1,7 @@
+Simulación reglas de asignación: espacio, tiempo, azar
+
+Idea: juzgados para ricos / pobres (calcular NBI, causas per capita vs porcentajes de pobreza)
+
+Complejidad: Codigo Penal vs Pablo vs Fojas, fojas estandarizadas
+
+Ploteo interactivo de causas por lugar / tipo de causa / juzgado / año (Plotly o D3.js?)
