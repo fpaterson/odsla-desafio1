@@ -1,0 +1,61 @@
+dia,fecha,tipo_conteo,lat,long,interseccion,tiempo,volumen_cruce_debido_peatones_x_hora,volumen_cruce_indebido_peatones_x_hora
+Martes,2018-10-02,Volumen peatonal - Registro de trayectoria,-34.5927222222222,-58.3754166666667,Juncal y Maipú,30 min,3020,436
+Lunes,2017-11-06,Volumen peatonal - Registro de trayectoria,-34.6306944444444,-58.4696666666667,Av. Rivadavia y Nazca/San Pedrito,30 min,1808,360
+Lunes,2017-11-06,Volumen peatonal - Registro de trayectoria,-34.62925,-58.4641111111111,Av. Rivadavia y Artigas/Pedernera,30 min,1680,488
+Martes,2017-11-07,Volumen peatonal - Registro de trayectoria,-34.6306944444444,-58.4696666666667,Av. Rivadavia y Nazca/San Pedrito,30 min,1344,434
+Martes,2017-11-07,Volumen peatonal - Registro de trayectoria,-34.62925,-58.4641111111111,Av. Rivadavia y Artigas/Pedernera,30 min,1772,655
+Martes,2017-11-21,Volumen peatonal - Registro de trayectoria,-34.6306944444444,-58.4696666666667,Av. Rivadavia y Nazca/San Pedrito,30 min,1758,246
+Martes,2017-11-21,Volumen peatonal - Registro de trayectoria,-34.62925,-58.4641111111111,Av. Rivadavia y Artigas/Pedernera,30 min,1521,393
+Martes,2017-12-05,Volumen peatonal - Registro de trayectoria,-34.6306944444444,-58.4696666666667,Av. Rivadavia y Nazca/San Pedrito,30 min,1977,666
+Martes,2017-12-05,Volumen peatonal - Registro de trayectoria,-34.62925,-58.4641111111111,Av. Rivadavia y Artigas/Pedernera,30 min,1585,396
+Juves,2019-04-25,Volumen peatonal - Registro de trayectoria,-34.5388611111111,-58.4758888888889,Av. Cabildo/Maipú y Gral. Paz,60 min,1928,504
+Martes,2019-08-13,Volumen peatonal - Registro de trayectoria,-34.5984166666667,-58.37125,Av. Alem y Córdoba,15 min ,1396,256
+Miércoles,2019-08-14,Volumen peatonal - Registro de trayectoria,-34.5984166666667,-58.37125,Av. Alem y Córdoba,15 min ,3257,171
+Martes,2019-08-13,Volumen peatonal - Registro de trayectoria,-34.5995,-58.3708055555556,Av. Alem y Viamonte,15 min ,584,43
+Miércoles,2019-08-14,Volumen peatonal - Registro de trayectoria,-34.5995,-58.3708055555556,Av. Alem y Viamonte,15 min ,1668,144
+Martes,2019-08-13,Volumen peatonal - Registro de trayectoria,-34.6006666666667,-58.3705,Av. Alem y Tucumán,15 min ,578,110
+Miércoles,2019-08-14,Volumen peatonal - Registro de trayectoria,-34.6006666666667,-58.3705,Av. Alem y Tucumán,15 min ,2001,127
+Juves,2019-08-15,Volumen peatonal - Registro de trayectoria,-34.6018611111111,-58.3703611111111,Av. Alem y Lavalle,15 min ,741,39
+Miércoles,2019-08-14,Volumen peatonal - Registro de trayectoria,-34.6018611111111,-58.3703611111111,Av. Alem y Lavalle,15 min ,1437,195
+Juves,2019-08-15,Volumen peatonal - Registro de trayectoria,-34.603,-58.3702777777778,Av. Alem y Corrientes,15 min ,2690,298
+Miércoles,2019-08-14,Volumen peatonal - Registro de trayectoria,-34.603,-58.3702777777778,Av. Alem y Corrientes,15 min ,2687,141
+Martes,2018-05-22,Volumen peatonal - Registro de trayectoria,-34.6292222222222,-58.4640833333333,Av. Rivadavia y Pedernera,60 min,1747,807
+Jueves,2018-06-07,Volumen peatonal - Registro de trayectoria,-34.5916388888889,-58.3743888888889,Av. Ramos Mejia entre Av. Del Libertador y Maipu,60 min,2840,3428
+Juves,2018-06-07,Volumen peatonal - Registro de trayectoria,-34.591,-58.37375,Av. Ramos Mejia y Maipu,60 min,3824,1748
+Martes,2018-06-05,Volumen peatonal - Registro de trayectoria,-34.5786388888889,-58.42525,Av. Santa Fe y Godoy Cruz,60 min,2612,442
+Miércoles,2018-05-23,Volumen peatonal - Registro de trayectoria,-34.6089722222222,-58.4069722222222,Av. Bartolome Mitre entre Av. Pueyrredon y Ecuador,60 min,3816,2808
+Viernes,2018-07-27,Volumen peatonal - Registro de trayectoria,-34.587,-58.4552222222222,Av. Lacroze y Av. Corrientes,60 min,1858,422
+Viernes,2018-07-27,Volumen peatonal - Registro de trayectoria,-34.5871666666667,-58.4550555555556,Av. Corrientes y Av. Lacroze,60 min,1888,3046
+Martes,2018-07-03,Volumen peatonal - Registro de trayectoria,-34.6277777777778,-58.3811944444444,Av. Brasil entre Lima Oeste y Lima Este,60 min,5346,7238
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6277777777778,-58.3811944444444,Av. Brasil entre Lima Oeste y Lima Este (Turno mañana),60 min,4968,6040
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6277777777778,-58.3811944444444,Av. Brasil entre Lima Oeste y Lima Este (Turno tarde),60 min,5572,8108
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6275833333333,-58.3809722222222,Av. Brasil entre Lima Oeste y Lima Este (Turno mañana),60 min,3580,3788
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6275833333333,-58.3809722222222,Av. Brasil entre Lima Oeste y Lima Este (Turno tarde),60 min,3400,4300
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6274722222222,-58.3809444444445,Av. Brasil entre Lima Oeste y Lima Este (Turno mañana),60 min,2460,2844
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6274722222222,-58.3809444444445,Av. Brasil entre Lima Oeste y Lima Este (Turno tarde),60 min,3364,3900
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6273055555556,-58.3811666666667,Av. Brasil entre Lima Oeste y Lima Este (Turno mañana),60 min,2124,3852
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6273055555556,-58.3811666666667,Av. Brasil entre Lima Oeste y Lima Este (Turno tarde),60 min,2100,4092
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6266666666667,-58.3812222222222,Av. Juan de Garay entre Lima Oeste y Lima Este (Turno mañana),60 min,1569,524
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6266666666667,-58.3812222222222,Av. Juan de Garay entre Lima Oeste y Lima Este (Turno tarde),60 min,924,940
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6275,-58.382,Av. Brasil y Lima Oeste,60 min,348,400
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6275,-58.382,Av. Brasil y Lima Oeste,60 min,384,208
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6280555555556,-58.3794722222222,Av. Gral Hornos entre Av. Brasil y Av. Caseros,60 min,2700,1012
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6280555555556,-58.3794722222222,Av. Gral Hornos entre Av. Brasil y Av. Caseros,60 min,2200,704
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6291388888889,-58.3790833333333,Av. Gral Hornos y Av. Caseros (Turno mañana),60 min,348,76
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6290833333333,-58.3789722222222,Av. Gral Hornos y Av. Caseros (Turno mañana),60 min,192,344
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6291388888889,-58.3790833333333,Av. Gral Hornos y Av. Caseros (Turno tarde),60 min,348,76
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6290833333333,-58.3789722222222,Av. Gral Hornos y Av. Caseros (Turno tarde),60 min,192,344
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6275555555556,-58.3798611111111,Av. Brasil y Lima Este (Turno mañana),60 min,512,520
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6275555555556,-58.3798611111111,Av. Brasil y Lima Este (Turno tarde),60 min,3132,1720
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6271388888889,-58.3821944444444,Av. Juan de Garay y Lima Oeste,60 min,1320,468
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6271388888889,-58.3821944444444,Av. Juan de Garay y Lima Oeste,60 min,1412,836
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6259722222222,-58.3822777777778,Av. Lima Oeste y Pavon,60 min,0,28
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6259722222222,-58.3822777777778,Av. Lima Oeste y Pavon,60 min,152,352
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6246666666667,-58.3822777777778,Av. Lima Oeste y Constitucion,60 min,96,108
+Martes,2019-09-24,Volumen peatonal - Registro de trayectoria,-34.6246666666667,-58.6246666666667,Av. Lima Oeste y Constitucion,60 min,112,280
+Jueves,2019-04-04,Volumen peatonal - Registro de trayectoria,-34.6246666666667,-58.6246666666667,Av. Santa Fe y Av. Pueyrredon,60 min,3778,314
+Jueves,2019-04-04,Volumen peatonal - Registro de trayectoria,-34.6246666666667,-58.6246666666667,Av. Santa Fe y Av. Coronel Diaz,60 min,2550,354
+Jueves,2019-04-04,Volumen peatonal - Registro de trayectoria,-34.6246666666667,-58.6246666666667,Av. Rivadavia y Av. Nazca,60 min,2672,738
+Jueves,2019-04-04,Volumen peatonal - Registro de trayectoria,-34.6246666666667,-58.6246666666667,Av. Rivadavia y Av. Acoyte,60 min,3630,274
+Jueves,2019-04-04,Volumen peatonal - Registro de trayectoria,-34.6246666666667,-58.6246666666667,Av. San Juan y Av. Entre Rios,60 min,1222,136
+Jueves,2019-04-04,Volumen peatonal - Registro de trayectoria,-34.6246666666667,-58.6246666666667,Av. San Juan y Av. Boedo,60 min,868,112
